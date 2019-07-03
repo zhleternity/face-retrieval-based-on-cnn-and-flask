@@ -37,7 +37,7 @@ python generate_index.py -database database -index facefeatureCNN.h5
 
 ### 结果显示
 
-
+![dmeo](demo.png)
 
 
 ### 注意事项
